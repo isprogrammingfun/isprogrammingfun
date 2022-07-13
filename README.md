@@ -4,6 +4,8 @@
 
 ### Welcome to my Github:star2:   
 ![seeun's github stats](https://github-readme-stats.vercel.app/api?username=seeun&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun&layout=compact&theme=vue)
+
   
 ###projects
 
