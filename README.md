@@ -25,5 +25,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
   
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
-
+**🛠️ DB 🛠️**  
+  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
