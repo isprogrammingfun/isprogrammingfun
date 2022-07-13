@@ -18,7 +18,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-### Tools :wrench:
+<!-- ### Tools :wrench:
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=#5C2D91"/>    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=#276DC3"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=#276DC3"/> -->
 
