@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D9E5FF&height=300&section=header&text=Welcome%20to%20Jang%20Se%20%20Eun's%20Github&fontSize=50&animation=fadeIn)
 
 ### Welcome to my Github:star2:   
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-/div>
+</div>
