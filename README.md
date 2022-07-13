@@ -10,6 +10,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 
   
 ### projects✨
+https://lab.hanium.or.kr/22_HF368
 
 
 ### Tech Stack 🛠️
