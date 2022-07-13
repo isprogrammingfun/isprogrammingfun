@@ -10,7 +10,9 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 
   
 ### projects✨
+:bulb: 나만의 스마트 셀프 보디가드 앱 :bulb:
 https://lab.hanium.or.kr/22_HF368
+https://www.notion.so/03dceb93daca46cf8670bfd29d7f0633
 
 
 ### Tech Stack 🛠️
