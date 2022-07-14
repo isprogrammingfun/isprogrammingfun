@@ -6,7 +6,7 @@
 I'm currently majoring in Computer Science at Dongduk Women's University. :mortar_board: <br/>
 How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br/> </br>
 ![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact&theme=vu)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1)
 
   
