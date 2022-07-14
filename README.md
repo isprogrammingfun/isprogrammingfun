@@ -26,6 +26,6 @@ https://www.notion.so/03dceb93daca46cf8670bfd29d7f0633 </br>
 <!-- ### Tools :wrench:
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=#5C2D91"/>    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=#276DC3"/> -->
-    
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjun&theme=flag-india)]([https://github.com/isprogrammingfun/Baekjun](https://github.com/isprogrammingfun/Baekjoon))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjoon)](https://github.com/isprogrammingfun/Baekjoon)
 
