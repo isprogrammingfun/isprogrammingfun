@@ -5,8 +5,8 @@
 ### Welcome to my Github:star2:   
 I'm currently majoring in Computer Science at Dongduk Women's University. :mortar_board: <br/>
 How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br/> </br>
-![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact&theme=buefy)
+![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
 
   
@@ -22,8 +22,8 @@ https://www.notion.so/03dceb93daca46cf8670bfd29d7f0633 </br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjoon&theme=buefy)](https://github.com/isprogrammingfun/Baekjoon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Kotlin&theme=buefy)](https://github.com/isprogrammingfun/Kotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjoon)](https://github.com/isprogrammingfun/Baekjoon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Kotlin)](https://github.com/isprogrammingfun/Kotlin)
 </div>
 
 <!-- ### Tools :wrench:
