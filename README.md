@@ -5,7 +5,7 @@
 ### Welcome to my Github:star2:   
 I'm currently majoring in Computer Science at Dongduk Women's University. :mortar_board: <br/>
 How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br/> </br>
-![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true&theme=radical)
+![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true&)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact&)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
 
