@@ -24,6 +24,9 @@ https://www.notion.so/03dceb93daca46cf8670bfd29d7f0633 </br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 
+<!-- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>                                           --!>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjoon)](https://github.com/isprogrammingfun/Baekjoon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Kotlin)](https://github.com/isprogrammingfun/Kotlin)
 </div>
