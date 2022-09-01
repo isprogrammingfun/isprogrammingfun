@@ -14,7 +14,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 :bulb: 나만의 스마트 셀프 보디가드 앱 :bulb: </br> </br>
 ![image](https://user-images.githubusercontent.com/96467030/187234838-74bf0806-a3e6-4fa2-88d8-7a0032d12347.png) </br> 
 
-:bulb: hyggee :bulb: </br> </br>
+:bulb: hygge :bulb: </br> </br>
 ![image](https://user-images.githubusercontent.com/96467030/186702103-213adaaa-a4a6-447b-b3b9-d4fa36511fcd.png) </br>
 
 
