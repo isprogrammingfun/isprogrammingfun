@@ -10,7 +10,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
 
   
-### projects✨
+### ✨projects✨
 :bulb: 나만의 스마트 셀프 보디가드 앱 :bulb: </br>
 ![image](https://user-images.githubusercontent.com/96467030/187234838-74bf0806-a3e6-4fa2-88d8-7a0032d12347.png) </br> 
 
