@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=C2E2E8&height=300&section=header&text=Welcome%20to%20Jang%20Se%20%20Eun's%20Github&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C2E2E8&height=300&section=header&text=Jang%20Se%20%20Eun's%20Github&fontSize=50&animation=fadeIn)
 
 ### Welcome to my Github:star2:   
 I'm currently majoring in Computer Science at Dongduk Women's University. :mortar_board: <br/>
