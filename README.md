@@ -9,13 +9,6 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun&layout=compact)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisjang1)](https://solved.ac/wisjang1) -->
 
-  
-### ✨projects✨
-:bulb: 나만의 스마트 셀프 보디가드 앱 :bulb: </br></br>
-![image](https://user-images.githubusercontent.com/96467030/187234838-74bf0806-a3e6-4fa2-88d8-7a0032d12347.png) </br> 
-
-:bulb: hygge :bulb: </br>
-![image](https://user-images.githubusercontent.com/96467030/186702103-213adaaa-a4a6-447b-b3b9-d4fa36511fcd.png) </br>
 
 
 ### Tech Stack 🛠️
@@ -28,6 +21,12 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 </div>
 
 <!-- 
+### ✨projects✨
+:bulb: 나만의 스마트 셀프 보디가드 앱 :bulb: </br></br>
+![image](https://user-images.githubusercontent.com/96467030/187234838-74bf0806-a3e6-4fa2-88d8-7a0032d12347.png) </br> 
+
+:bulb: hygge :bulb: </br>
+![image](https://user-images.githubusercontent.com/96467030/186702103-213adaaa-a4a6-447b-b3b9-d4fa36511fcd.png) </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Baekjoon)](https://github.com/isprogrammingfun/Baekjoon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isprogrammingfun&repo=Kotlin)](https://github.com/isprogrammingfun/Kotlin)
 ### Tools :wrench:
