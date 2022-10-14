@@ -21,7 +21,7 @@ How to reach me : Mail me yebom122@gmail.com or wisjang1@naver.com :envelope:<br
 
 
 ### Tools 🛠️
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </div>
 
 <!-- 
