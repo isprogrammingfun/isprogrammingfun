@@ -1,14 +1,16 @@
   
 ## Activity
-- `2022.06 - 2022.09` IT 경영학회 큐시즘 26기 개발팀 (BE)
+- `2022.08 - 2022.011` IT 경영학회 큐시즘 26기 개발팀 (BE)
 - `2023.03 - 2023.06` IT 경영학회 큐시즘 27기 개발팀 (BE)
 - `2023.07 - ----.--` 자바 최적화/알고리즘 스터디
 
 ## Project
 - `2022.06 - 2022.09` 한이음 스마트 경호 어플리케이션 (동덕여자대학교 소프트웨어 경진대회 최우수상 (1등)) [🔗 Repository](https://github.com/hanium-project/Police-in-my-pocket-backend)
+- `2022.08 - 2022.09` (주) 파블로항공 사용자 인증 기반 도어락 시스템 [🔗 Repository](https://github.com/asapD)
 - `2022.09 - 2022.12` 마음 챙김 일기 서비스 나날 (큐시즘 밋업데이 대상 (1등)) [🔗 Repository](https://github.com/On-Log/Backend)
 - `2022.11 - ----.--` 나날 [📱 APP](https://apps.apple.com/kr/app/%EB%82%98%EB%82%A0-nanal/id6446810844)
 - `2023.03 - 2023.06` 반려동물과 함께한 시간들을 기록하는 서비스 펫모리 (큐시즘 밋업데이 우수상 (3등))[🔗 Repository](https://github.com/KUSITMS-27th-TEAM3/BackEnd)
+- `2023.04 - 2023.06` Spring 전공 소프트웨어 시스템 개발 OTT 팟 구하기 서비스 Genie [🔗 Repository](https://github.com/2023-Software-System-Development/genie)
 - `2023.07 - ----.--` 펫모리 [🔗 Repository](https://github.com/TEAM-SAMSION)
   
 ## Tech Stack 🛠️
