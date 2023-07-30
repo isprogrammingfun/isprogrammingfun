@@ -2,7 +2,7 @@
 ## Activity
 - `2022.08 - 2022.11` IT 경영학회 큐시즘 26기 개발팀 (BE)
 - `2023.03 - 2023.06` IT 경영학회 큐시즘 27기 개발팀 (BE)
-- `2023.07 - ----.--` 자바 최적화/알고리즘 스터디
+- `2023.07 - ----.--` 자바 최적화/알고리즘 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading) 
 
 ## Project
 - `2022.06 - 2022.09` 한이음 스마트 경호 어플리케이션 (동덕여자대학교 소프트웨어 경진대회 최우수상 (1등)) [🔗 Repository](https://github.com/hanium-project/Police-in-my-pocket-backend)
