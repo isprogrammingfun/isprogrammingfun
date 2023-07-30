@@ -37,4 +37,4 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
-
+![seeun's github stats](https://github-readme-stats.vercel.app/api?username=isprogrammingfun&show_icons=true)
