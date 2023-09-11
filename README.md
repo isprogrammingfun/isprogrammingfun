@@ -5,7 +5,6 @@
 - `2023.07 - ----.--` 자바 최적화/알고리즘 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading) 
 
 ## Project
-- `2022.06 - 2022.09` 한이음 스마트 경호 어플리케이션 (동덕여자대학교 소프트웨어 경진대회 최우수상 (1등)) [🔗 Repository](https://github.com/hanium-project/Police-in-my-pocket-backend)
 - `2022.08 - 2022.09` (주) 파블로항공 사용자 인증 기반 도어락 시스템 [🔗 Repository](https://github.com/asapD)
 - `2022.09 - 2022.12` 마음 챙김 일기 서비스 나날 (큐시즘 밋업데이 대상 (1등)) [🔗 Repository](https://github.com/On-Log/Backend)
 - `2022.11 - ----.--` 나날 [📱 APP](https://apps.apple.com/kr/app/%EB%82%98%EB%82%A0-nanal/id6446810844)
