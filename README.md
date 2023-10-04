@@ -2,7 +2,6 @@
 ## Activity
 - `2022.08 - 2022.11` IT 경영학회 큐시즘 26기 개발팀 (BE)
 - `2023.03 - 2023.06` IT 경영학회 큐시즘 27기 개발팀 (BE)
-- `2023.07 - ----.--` 자바 최적화/알고리즘 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading) 
 
 ## Project
 - `2022.08 - 2022.09` (주) 파블로항공 사용자 인증 기반 도어락 시스템 [🔗 Repository](https://github.com/asapD)
