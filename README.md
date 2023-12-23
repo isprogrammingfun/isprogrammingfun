@@ -9,7 +9,6 @@
 - `2022.09 - 2022.12` 마음 챙김 일기 서비스 나날 (큐시즘 밋업데이 대상 (1등)) [🔗 Repository](https://github.com/On-Log/Backend)
 - `2022.11 - ----.--` 나날 [📱 APP](https://apps.apple.com/kr/app/%EB%82%98%EB%82%A0-nanal/id6446810844)
 - `2023.03 - 2023.06` 반려동물과 함께한 시간들을 기록하는 서비스 펫모리 (큐시즘 밋업데이 우수상 (3등))[🔗 Repository](https://github.com/KUSITMS-27th-TEAM3/BackEnd)
-- `2023.04 - 2023.06` Spring 전공 소프트웨어 시스템 개발 OTT 팟 구하기 서비스 Genie [🔗 Repository](https://github.com/2023-Software-System-Development/genie)
 - `2023.07 - ----.--` 포잇 [🔗 Repository](https://github.com/TEAM-SAMSION)
   
 ## Tech Stack 🛠️
