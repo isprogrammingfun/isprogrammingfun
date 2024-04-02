@@ -4,7 +4,7 @@
 - `2023.03 - 2023.06` IT 경영학회 큐시즘 27기 개발팀 (BE)
 - `2023.11 - ----.--` 오브젝트 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading/Object-Study)
 - `2024.01 - ----.--` IT 경영학회 큐시즘 29기 교육기획팀 & 개발팀 (BE)
-- `2024.03 - ----.--` DDD 스터 [🔗 Repository](https://github.com/JSON-loading-and-unloading/DDD-start)
+- `2024.03 - ----.--` DDD 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading/DDD-start)
 
 ## Project
 - `2022.08 - 2022.09` (주) 파블로항공 사용자 인증 기반 도어락 시스템 [🔗 Repository](https://github.com/asapD)
