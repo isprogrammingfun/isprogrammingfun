@@ -12,6 +12,7 @@
 - `2022.11 - ----.--` 나날 [📱 APP](https://apps.apple.com/kr/app/%EB%82%98%EB%82%A0-nanal/id6446810844)
 - `2023.03 - 2023.06` 반려동물과 함께한 시간들을 기록하는 서비스 펫모리 (큐시즘 밋업데이 우수상 (3등))[🔗 Repository](https://github.com/KUSITMS-27th-TEAM3/BackEnd)
 - `2023.07 - ----.--` 포잇 [🔗 Repository](https://github.com/TEAM-SAMSION)
+- `2024.04 - 2024.05` 경험 정리 서비스 플로잇 (큐시즘 밋업데이 최우수상 (2등))[🔗 Repository](https://github.com/KUSITMS-29th-TEAM-B/Backend)
   
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
