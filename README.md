@@ -1,6 +1,6 @@
   
 ## Activity
-- `2025.04 - ----.--` SIPE 4기
+- `2025.04 - 2025.08` SIPE 4기
 - `2024.03 - 2024.05` DDD 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading/DDD-start)
 - `2023.12 - 2024.06` IT 경영학회 큐시즘 29기 교육기획팀 & 개발팀 (BE)
 - `2023.11 - 2024.01` 오브젝트 스터디 [🔗 Repository](https://github.com/JSON-loading-and-unloading/Object-Study)
